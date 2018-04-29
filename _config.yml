@@ -1,0 +1,24 @@
+theme: minima
+title: "Manikantan Nambi"
+author: "Manikantan Nambi"
+description: "The posts on this page are a collection of notes that I found useful. These include articles that I read on the web, summary of podcasts, and notes from books that I have read."
+
+show_excerpts: false
+
+header_pages: 
+    - about.md
+
+linkedin_username: maninambi
+
+disqus:
+    shortname: mnambi
+
+
+
+
+
+
+
+
+
+

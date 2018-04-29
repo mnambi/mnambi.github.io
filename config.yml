@@ -1,0 +1,20 @@
+theme: minima
+title: ["Hi, I am Mani."]
+description: [I am a roboticist.]
+
+minima:
+    date_format: "%b %-d, %Y"
+
+header_pages:
+ - resume.md
+ - about.md
+
+collections:
+ - management
+
+collections:
+  management:
+    output: true
+    permalink:/management/:path/   
+
+linkedin_username: manikantan_n@hotmail.com
