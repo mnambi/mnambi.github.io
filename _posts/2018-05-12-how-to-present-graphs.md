@@ -1,9 +1,9 @@
 ---
 layout: post
+title: How to Present Graphs
 published: true
+comments: true
 ---
-How to Present Graphs
-===
 Graphs are very powerful tools for conveying information. Text worth a page or more can be all condensed within a single graph that would span for less than a single page. Graphs can help visualize complex relations and comparison. It is also a double-edged sword; if not used correctly, can result is reducing the impact of your work. In this post, I am focussing on graphs that are premdominantly used for conveying technical data. 
 
 The motivation for this post is to keep a record of what I learned about presenting technical data using graphs in graduate school. As I have been out of academia for a while now, I feel like I am losing my technical writing/presenting skills. Writing these posts are my way of keeping them current. 
