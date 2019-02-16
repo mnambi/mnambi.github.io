@@ -3,6 +3,7 @@ layout: post
 title: How to Find Time to Work?
 published: true
 comments: true
+meta: workhowto
 ---
 You will hear a lot of people complain that their schedule is completely filled with meetings and they do not get enough time to do actual work. This is a very tricky problem to solve. You want to be in at least some of these meetings because important decisions are being made and some of them might be very relevant to your work which will affect your carreer trajectory. On the other hand, too many meetings can leave you with fragmented pockets of time scattered throughout the work week. 
 
