@@ -10,6 +10,9 @@ header_pages:
 
 linkedin_username: maninambi
 
+plugins:
+  - jekyll-seo-tag
+
 disqus:
     shortname: mnambi
 
