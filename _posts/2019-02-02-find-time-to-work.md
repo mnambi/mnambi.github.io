@@ -1,5 +1,9 @@
-How to find time to work?
-===
+---
+layout: post
+title: How to Find Time to Work?
+published: true
+comments: true
+---
 You will hear a lot of people complain that their schedule is completely filled with meetings and they do not get enough time to do actual work. This is a very tricky problem to solve. You want to be in at least some of these meetings because important decisions are being made and some of them might be very relevant to your work which will affect your carreer trajectory. On the other hand, too many meetings can leave you with fragmented pockets of time scattered throughout the work week. 
 
 Personally, I have observed that I am effective when I get chunks of time that are larger than 2 hours. Part of that two hour period is taken up by switching between tasks. About 5-10 mins at the beginning is lost due to context switching. At end of the time slot, another 5-10 or possibly more time is lost to prepare for the next meeting. If you are not preparing for the meeting, you might also be losing time in the meeting because you are not getting the most out of it.

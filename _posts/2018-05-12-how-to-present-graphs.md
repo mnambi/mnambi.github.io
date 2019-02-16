@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Present Graphs
+title: How to Present Graphs?
 published: true
 comments: true
 ---
