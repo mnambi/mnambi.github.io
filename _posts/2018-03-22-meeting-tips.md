@@ -2,6 +2,7 @@
 layout: post
 title: Organize Effective Meetings
 comments: true
+published: false
 ---
 I have always wanted to perfect the art of organizing and executing a productive meeting. There are some great ideas out there such Amazon's two pizza rule[^1]. I have heard from friend's who have worked with Elon Musk that if he calls out people who do not say anything in a meeting. Now we might want to go that ballistic. Like what one of my bosses said, "We don't need genius jerks." So here are my collection of tips for effective meetings.
 
