@@ -1,11 +1,10 @@
 theme: minima
-title: "Manikantan Nambi"
-author: "Manikantan Nambi"
+
 
 show_excerpts: false
 
 header_pages: 
-    - about.md
+
 
 linkedin_username: maninambi
 
