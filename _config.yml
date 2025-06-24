@@ -3,7 +3,8 @@ theme: minima
 
 show_excerpts: false
 
-header_pages: []
+header_pages:
+  - about.md
 
 
 linkedin_username: maninambi
