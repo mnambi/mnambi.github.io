@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-### Mani Nambi
+
 
 I am an Applied Science Manager at Amazon Robotics where I lead a team developing item manipulation systems. 
 
