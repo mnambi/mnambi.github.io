@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="headshot_06_2025.jpg" alt="drawing" width="300"/>
+<img src="headshot_06_2025.jpg" alt="drawing" width="200"/>
 
 I am an Applied Science Manager at Amazon Robotics where I lead a team developing item manipulation systems. 
 
@@ -11,6 +11,7 @@ Prior to Amazon Robotics, I was a Sr. Research Engineer with Energid Technologie
 I received my PhD from University of Utah where I developed a robot for retina surgery. 
 
 [LinkedIn](https://www.linkedin.com/in/maninambi/)
+
 [Google Scholar](https://scholar.google.com/citations?user=icZ_DsIAAAAJ&hl=en)
 
 {% comment %} 
