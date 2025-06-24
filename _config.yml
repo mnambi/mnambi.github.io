@@ -1,6 +1,5 @@
 theme: minima
 
-
 show_excerpts: false
 
 header_pages:
@@ -9,8 +8,6 @@ header_pages:
 plugins:
   - jekyll-seo-tag
 
-disqus:
-    shortname: mnambi
 
 google_analytics: UA-119135377-1
 
