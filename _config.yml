@@ -6,9 +6,6 @@ show_excerpts: false
 header_pages:
   - about.md
 
-
-linkedin_username: maninambi
-
 plugins:
   - jekyll-seo-tag
 
